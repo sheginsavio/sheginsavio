@@ -7,9 +7,6 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nG2WZ2YsRF5pq2XPj6_Ip6JCl9nCFOmA/view?usp=sharing)
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheginsavio&show_icons=true&locale=en&layout=compact" alt="sheginsavio" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheginsavio&show_icons=true&locale=en" alt="sheginsavio" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
