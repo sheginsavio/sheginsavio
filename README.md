@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **savioshegin@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OYfIa5L-UG2USnbgdveyC2xGhobEotfP/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1OYfIa5L-UG2USnbgdveyC2xGhobEotfP/view?usp=drive_link](https://drive.google.com/file/d/1nG2WZ2YsRF5pq2XPj6_Ip6JCl9nCFOmA/view?usp=sharing))
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sheginsavio&show_icons=true&locale=en&layout=compact" alt="sheginsavio" /></p>
 
